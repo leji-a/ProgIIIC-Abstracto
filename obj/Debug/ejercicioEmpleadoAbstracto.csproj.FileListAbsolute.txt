@@ -1,0 +1,11 @@
+C:\Users\UTN\Desktop\ejercicioEmpleadoAbstracto\bin\Debug\ejercicioEmpleadoAbstracto.exe.config
+C:\Users\UTN\Desktop\ejercicioEmpleadoAbstracto\bin\Debug\ejercicioEmpleadoAbstracto.exe
+C:\Users\UTN\Desktop\ejercicioEmpleadoAbstracto\bin\Debug\ejercicioEmpleadoAbstracto.pdb
+C:\Users\UTN\Desktop\ejercicioEmpleadoAbstracto\obj\Debug\ejercicioEmpleadoAbstracto.csproj.AssemblyReference.cache
+C:\Users\UTN\Desktop\ejercicioEmpleadoAbstracto\obj\Debug\ejercicioEmpleadoAbstracto.csproj.SuggestedBindingRedirects.cache
+C:\Users\UTN\Desktop\ejercicioEmpleadoAbstracto\obj\Debug\ejercicioEmpleadoAbstracto.Form1.resources
+C:\Users\UTN\Desktop\ejercicioEmpleadoAbstracto\obj\Debug\ejercicioEmpleadoAbstracto.Properties.Resources.resources
+C:\Users\UTN\Desktop\ejercicioEmpleadoAbstracto\obj\Debug\ejercicioEmpleadoAbstracto.csproj.GenerateResource.cache
+C:\Users\UTN\Desktop\ejercicioEmpleadoAbstracto\obj\Debug\ejercicioEmpleadoAbstracto.csproj.CoreCompileInputs.cache
+C:\Users\UTN\Desktop\ejercicioEmpleadoAbstracto\obj\Debug\ejercicioEmpleadoAbstracto.exe
+C:\Users\UTN\Desktop\ejercicioEmpleadoAbstracto\obj\Debug\ejercicioEmpleadoAbstracto.pdb
